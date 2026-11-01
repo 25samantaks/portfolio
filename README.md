@@ -2,7 +2,7 @@
 
 A responsive, single-page portfolio built for the **Skillinf Portfolio Design Hackathon 2026**.
 
-**Live site:** https://25samantaks.github.io/portfolio/ 
+**Live site:** https://25samantaks.github.io/portfolio/portfolio-github/
 
 ## About
 
